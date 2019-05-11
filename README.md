@@ -9,7 +9,7 @@
   <code>go build -o Base64Conv.exe .\main.go</code>
   </p>
   <h2>2.Download binary （windows）</h2>
-  <p><a href="/releases">到rerlases下载！</a></P>
+  <p><a href="#">前往releases下载Base64Conv-0.0.1-amd64.exe</a></P>
 <h2>3.How to use?</h2>
 <pre>
 Base64 Converter v0.0.1<Michael Jiang:sencom.top>
